@@ -8,7 +8,9 @@ namespace Neyron
 {
     class Program
     {
-        
+        /// <summary>
+        /// 31.05.2021
+        /// </summary>
         public class Neuron
         {
             private decimal weight = 0.5m;

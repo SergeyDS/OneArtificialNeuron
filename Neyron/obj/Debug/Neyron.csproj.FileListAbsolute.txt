@@ -1,0 +1,7 @@
+C:\Users\SDevyataykin\source\repos\Neyron\Neyron\bin\Debug\Neyron.exe.config
+C:\Users\SDevyataykin\source\repos\Neyron\Neyron\bin\Debug\Neyron.exe
+C:\Users\SDevyataykin\source\repos\Neyron\Neyron\bin\Debug\Neyron.pdb
+C:\Users\SDevyataykin\source\repos\Neyron\Neyron\obj\Debug\Neyron.csprojAssemblyReference.cache
+C:\Users\SDevyataykin\source\repos\Neyron\Neyron\obj\Debug\Neyron.csproj.CoreCompileInputs.cache
+C:\Users\SDevyataykin\source\repos\Neyron\Neyron\obj\Debug\Neyron.exe
+C:\Users\SDevyataykin\source\repos\Neyron\Neyron\obj\Debug\Neyron.pdb
